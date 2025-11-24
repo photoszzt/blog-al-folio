@@ -27,4 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior System Software Engineer at [NVIDIA](https://www.nvidia.com/).
+I am a Senior System Software Engineer at [NVIDIA](https://www.nvidia.com/). I work on training infrastructure. I joined NVIDIA via Lepton AI.
+
+I hold a PhD in Computer Science from the [The University of Texas at Austin](https://www.utexas.edu/). I worked on distributed systems during my PhD. My [dissertation](https://repositories.lib.utexas.edu/items/4f3639ac-618c-4de7-8099-9340b22ee557) is about exactly-once semantics for recoverable data processing applications. I graduated my bachelor from University of Washington in Seattle with dual degrees in Computer Engineering and Electrial Engineering.
+
+My email address is zhitingzhu at outlook.com. I am currently based in Santa Clara, CA.

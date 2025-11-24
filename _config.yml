@@ -194,6 +194,7 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/books.md
+  - _projects/
 keep_files:
   - CNAME
   - .nojekyll
@@ -636,11 +637,11 @@ jsonresume:
   - work
   - education
   - publications
-  - projects
-  - volunteer
+  # - projects
+  # - volunteer
   - awards
-  - certificates
+  # - certificates
   - skills
   - languages
   - interests
-  - references
+  # - references
