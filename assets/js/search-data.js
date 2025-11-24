@@ -48,12 +48,7 @@ ninja.data = [{
             window.location.href = "/blog/2017/magicdom/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-announcement-1",
+      },{id: "news-announcement-1",
           title: 'Announcement_1',
           description: "",
           section: "News",handler: () => {
