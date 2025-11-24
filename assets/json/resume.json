@@ -1,19 +1,8 @@
 {
   "basics": {
     "name": "Zhiting Zhu",
-    // "label": "",
-    // "image": "",
     "email": "zzt0215 at gmail.com",
-    // "phone": "(912) 123-4567",
     "url": "https://photoszzt.github.io",
-    "summary": "Software engineer in AI infra. Building, researching, innovating",
-    // "location": {
-    //   "address": "2712 Broadway St",
-    //   "postalCode": "CA 94115",
-    //   "city": "San Francisco",
-    //   "countryCode": "US",
-    //   "region": "California"
-    // },
     "profiles": [
       {
         "network": "LinkedIn",
@@ -29,27 +18,27 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "NVIDIA",
+      "position": "Senior System Software Engineer",
+      "url": "https://www.nvidia.com",
+      "startDate": "2025-04"
+    },
+    {
+      "name": "Lepton AI",
+      "position": "Software Engineer",
+      "url": "https://www.lepton.ai",
+      "startDate": "2024-09",
+      "endDate": "2025-04",
+      "summary": "Training infra. Joined NVIDIA after the acquisition of Lepton AI."
+    },
+    {
+      "name": "University of Texas at Austin",
+      "position": "Teaching Assistant/Research Assistant",
+      "url": "https://www.lepton.ai",
+      "startDate": "2014-08",
+      "endDate": "2024-08"
     }
   ],
-  // "volunteer": [
-  //   {
-  //     "organization": "People's Climate March",
-  //     "location": "Zurich, Switzerland",
-  //     "position": "Lead Organizer",
-  //     "url": "https://example.com",
-  //     "startDate": "2014-04-01",
-  //     "endDate": "2015-07-01",
-  //     "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-  //     "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-  //   }
-  // ],
   "education": [
     {
       "institution": "The University of Texas at Austin",
@@ -58,9 +47,7 @@
       "area": "Database Systems, Operating Systems",
       "studyType": "PhD",
       "startDate": "2014",
-      "endDate": "2024",
-      // "score": "10",
-      // "courses": ["Theory of Relativity"]
+      "endDate": "2024"
     },
     {
       "institution": "University of Washington",
@@ -69,9 +56,7 @@
       "area": "Computer Engineering",
       "studyType": "Bachelor",
       "startDate": "2010",
-      "endDate": "2014",
-      // "score": "10",
-      // "courses": ["Theory of Relativity"]
+      "endDate": "2014"
     },
     {
       "institution": "University of Washington",
@@ -80,85 +65,7 @@
       "area": "Electrical Engineering",
       "studyType": "Bachelor",
       "startDate": "2010",
-      "endDate": "2014",
-      // "score": "10",
-      // "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  // "certificates": [
-  //   {
-  //     "name": "Machine Learning",
-  //     "date": "2018-01-01",
-  //     "issuer": "Stanford University",
-  //     "url": "https://example.com",
-  //     "icon": "fa-solid fa-location-dot"
-  //   },
-  //   {
-  //     "name": "Quantum Computing",
-  //     "date": "2018-01-01",
-  //     "issuer": "Stanford University",
-  //     "url": "https://example.com",
-  //     "icon": "fa-solid fa-tag"
-  //   },
-  //   {
-  //     "name": "Quantum Information",
-  //     "date": "2018-01-01",
-  //     "issuer": "Stanford University",
-  //     "url": "https://example.com",
-  //     "icon": "fa-solid fa-envelope"
-  //   },
-  //   {
-  //     "name": "Quantum Cryptography",
-  //     "date": "2018-01-01",
-  //     "issuer": "Stanford University",
-  //     "url": "https://example.com",
-  //     "icon": "fa-solid fa-hashtag"
-  //   },
-  //   {
-  //     "name": "Quantum Communication",
-  //     "date": "2018-01-01",
-  //     "issuer": "Stanford University",
-  //     "url": "https://example.com",
-  //     "icon": "fa-solid fa-calendar"
-  //   },
-  //   {
-  //     "name": "Quantum Teleportation",
-  //     "date": "2018-01-01",
-  //     "issuer": "Stanford University",
-  //     "url": "https://example.com",
-  //     "icon": "fa-solid fa-clipboard-check"
-  //   }
-  // ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-    },
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "endDate": "2014"
     }
   ],
   "languages": [
@@ -188,27 +95,5 @@
         "System for ML"
       ]
     }
-  ],
-  // "references": [
-  //   {
-  //     "name": "Professor John Doe",
-  //     "icon": "fa-solid fa-laptop",
-  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-  //   },
-  //   {
-  //     "name": "Professor John Doe",
-  //     "icon": "fa-solid fa-thumbtack",
-  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-  //   }
-  // ],
-  // "projects": [
-  //   {
-  //     "name": "Quantum Computing",
-  //     "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-  //     "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-  //     "startDate": "2018-01-01",
-  //     "endDate": "2018-01-01",
-  //     "url": "https://example.com"
-  //   }
-  // ]
+  ]
 }
